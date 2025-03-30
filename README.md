@@ -20,7 +20,7 @@ The **Face Recognition Attendance System** is a real-time attendance tracking ap
 ## 📂 Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/FaceRecognitionAttendanceSystem.git
+   git clone https://github.com/saketsumanai/FaceRecognitionAttendanceSystem.git
    ```
 2. Navigate to the project directory:
    ```bash
